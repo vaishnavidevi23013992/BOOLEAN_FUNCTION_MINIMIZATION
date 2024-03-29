@@ -53,12 +53,18 @@ endmodule
 
 
 **RTL realization**
+
+
 ![2 1](https://github.com/vaishnavidevi23013992/BOOLEAN_FUNCTION_MINIMIZATION/assets/151864235/2a9ea591-788f-43e4-9ac2-72c55f6feec5)
 
 **TRUTH TABLE**
+
+
 ![2 2](https://github.com/vaishnavidevi23013992/BOOLEAN_FUNCTION_MINIMIZATION/assets/151864235/ebce4c69-e09a-4b8b-b07b-cacddbd3a673)
 
 **Timing Diagram**
+
+
 ![2 3](https://github.com/vaishnavidevi23013992/BOOLEAN_FUNCTION_MINIMIZATION/assets/151864235/b9312db6-f9e8-4754-bdcf-ce000b18f629)
 
 **Result:**
